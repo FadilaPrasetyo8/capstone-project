@@ -1,0 +1,16 @@
+.navbar {
+  background: transparent;
+  width: 100%;
+  position: fixed !important;
+  z-index: 1;
+}
+.logo {
+  color: #10ab73 !important;
+  font-weight: bold;
+}
+
+.content a {
+  text-align: center;
+  color: #097d54 !important;
+  font-weight: bold;
+}
