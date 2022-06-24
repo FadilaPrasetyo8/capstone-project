@@ -3,7 +3,7 @@
   background-image: linear-gradient(to right, #c6ffee, #f9fffd);
 }
 .konten-main {
-  height: 800px;
+  height: auto;
 }
 .headerh1 h1 {
   font-size: 32px;
