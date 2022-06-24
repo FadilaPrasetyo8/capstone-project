@@ -1,0 +1,5 @@
+.main-detail p {
+  color: black;
+  text-align: justify !important;
+  margin: 0 30px;
+}

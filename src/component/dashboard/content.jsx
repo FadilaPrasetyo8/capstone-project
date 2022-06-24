@@ -1,10 +1,9 @@
 import React from "react";
 import "./content.css";
-import image from "./image/image.png";
-import Group9 from "./image/Group9.png";
-import Group10 from "./image/Group10.png";
-import Group11 from "./image/Group11.png";
-import { dataArtikel } from "../data";
+import image from "../image/image.png";
+import Group9 from "../image/Group9.png";
+import Group10 from "../image/Group10.png";
+import Group11 from "../image/Group11.png";
 
 const Content = () => {
   return (
@@ -51,6 +50,7 @@ const Content = () => {
                   </div>
                 </div>
               </div>
+              .
               <div className="col">
                 <div className="card-main">
                   <div className="custom-card shadow">
