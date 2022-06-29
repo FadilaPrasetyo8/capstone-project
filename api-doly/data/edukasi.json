@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "title": "Ciri-Ciri Anak Stunting",
+        "list": [
+          "Stunting berarti pendek, tetapi tidak semua anak pendek adalah stunting. Namun lebih pada mulnurasi dan mengalami infeksi kronis.",
+          "Kondisi gagal tumbuh karena kekurangan gizi di 1000 HPK anak yang berefek jangka panjang hingga anak dewasa dan lanjut usia",
+          "Usia 8 - 10 tahun anak menjadi lebih pendiam, tidak banyak melakukan eye contact"
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_25__SCcXKLFF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656486746956"
+    },
+    {
+        "id": 2,
+        "title": "Faktor Penyebab Anak Stunting",
+        "list": [
+          "Riwayat ASI Eksklusif",
+          "Tinggi badan ibu",
+          "Riwayat usia pemberian MPASI",
+          "Riwayat anemia ibu saat hamil dan pengetahuan ibu yang kurang",
+          "Rendahnya jumlah dan kualitas zat gizi yang dikonsumsi sejak dalam kandungan",
+          "Penyakit infeksi terutama infeksi saluran cerna.",
+          "Pola asuh makan (ASIEksklusif dan Makanan Pendamping ASI) yang tidak baik"
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/icon-park-outline_traditional-chinese-medicine_PViCyBJA8.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656466809183"
+    },
+    {
+        "id": 3,
+        "title": "Pencegahan Masa Kehamilan",
+        "list": [
+          "Ibu Hamil arus diberi asupan nutrisi gizi seimbang dan suplemen yang lengkap.",
+          "Melakukan pemeriksaan atau ANC (antenatal care) yang rutin",
+          "Ibu hamil dianjurkan untuk meminum obat cacing setiap 6 bulan sekali",
+          "Ibu perlu aktif mengikuti anjuran pemerintah, dan terus menjaga kesehatan."
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_26_p7DQFEPMy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656486747538"
+    },
+    {
+        "id": 4,
+        "title": "Pencegahan Setelah Kehamilan",
+        "list": [
+          "Pemenuhan Nutrisi pada 1000 hari pertama kehidupan dan esensial untuk si Kecil seperti vitamin (A, B kompleks, C, D, E, dan K), mineral (kalsium, magnesium, fosfor, sulfur, sodium, kalium, dan klorida), protein, lemak sehat, karbohidrat, dan cairan",
+          "Memberi ASI Eksklusif sampai bayi berusia 6 bulan dan pemberian MPASI yang memadai",
+          "Bawa si kecil secara berkala ke Posyandu maupun klinik khusus anak. Dengan begitu, akan lebih mudah bagi ibu untuk mengetahui gejala awal gangguan dan penanganannya."
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_24_EAQKMBP19.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656486747582"
+    },
+    {
+        "id": 5,
+        "title": "Penanganan dengan Pendekatan Keluarga",
+        "list": [
+          "ASI Eksklusif dan memberikan MP-ASI yang memadai",
+          "Pertumbuhan dan perkembangan balita dipantau tiap bulan",
+          "Menerapkan dan membiasakan pola hidup Sanitasi",
+          "Bayi mendapat Imunisasi dasar lengkap"
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_27_-nsi36Ze-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656486747643"
+    },
+    {
+        "id": 6,
+        "title": "Dampak Buruk Stunting pada Anak",
+        "list": [
+          "Dalam jangka pendek adalah terganggunya perkembangan otak, kecerdasan, gangguan pertumbuhan fisik, dan gangguan metabolisme dalam tubuh.",
+          "Sedangkan dalam jangka panjang akibat buruk yang dapat ditimbulkan adalah menurunnya kemampuan kognitif dan prestasi belajar, menurunnya kekebalan tubuh sehingga mudah sakit, dan risiko tinggi untuk munculnya penyakit diabetes, kegemukan, penyakit jantung dan pembuluh darah kanker stroke, dan disabilitas pada usia muda serta kualitas tua, serta kualitas kerja yang tidak kompetitif yang berakibat pada rendagnya produktivitas ekonomi"
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_18_-C8337BkO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656466807126"
+    },
+    {
+        "id": 7,
+        "title": "Perbedaan Anak Penderita Stunting dengan Anak Sekadar Bertumbuh pendek",
+        "list": [
+          "Stunting sering terjadi dalam siklus atau antargenerasi. Artinya, anak yang memiliki kondisi ini umumnya lahir dari seorang ibu yang kekurangan gizi. Selain itu, anak yang mengalami stunting juga lebih mungkin memiliki anak dengan kondisi yang sama pada saat dewasa nantinya. Beda dengan stunting, penyebab anak bertubuh pendek umumnya terkait dengan faktor genetik. Ini berarti anak yang bertubuh pendek biasanya lahir dari orangtua yang pendek pula.",
+          "Pendek dan stunting bisa dibedakan dengan memperhatikan kondisi keluarganya. Anak dengan tubuh pendek biasanya terlahir dari orangtua yang tidak terlalu tinggi. Hal berbeda biasanya dijumpai pada anak stunting yang terus mengalami keterlambatan tumbuh. Anak stunting biasanya tumbuh lebih lambat sekitar 4 sentimeter tiap tahun di masa pra pubertas. Anak stunting juga mengalami keterlambatan masa puber yang biasanya di usia 15 tahun."
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_21_s5tEKYNDW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656466808966"
+    },
+    {
+        "id": 8,
+        "title": "Pengaruh Edukasi Terhadap Tingkat Pengetahuan dan Upaya Pencegahan Stunting pada Anak",
+        "list": [
+          "Perbedaan mean pengetahuan dan upaya pencegahan stunting sebelum dan setelah edukasi. Edukasi dilakukan untuk berbagai tujuan seperti meningkatkan derajat kesehatan, mencegah penyakit dan injuri, memperbaiki atau mengembalikan kesehatan, meningkatkan kemampuan koping terhadap masalah kesehatan seperti pemberdayaan.",
+          "Pengaruh pendidikan kesehatan terhadap peningkatan pengetahuan dan perilaku. Oleh karena itu edukasi sangat penting diberikan kepada orang tua."
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_27_-nsi36Ze-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656486747643"
+    },
+    {
+        "id": 9,
+        "title": "Intervenisi Gizi Spesifik",
+        "list": [
+          "Pemberian Makanan Tambahan untuk mengatasi Kawasan Ekonomi Khusus pada bumil",
+          "Tata laksana gizi buruk",
+          "Memberikan vitamin A",
+          "Pencegahan dan pengobatan diare"
+        ],
+        "img": "https://ik.imagekit.io/cp0jii1iy/icons/Group_19_w3hziUn9A.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656466807982"
+    }
+]
